@@ -7,6 +7,8 @@ an example implementation and usage of this would be in the repo https://github.
 
 ```javascript
 
+import ReactReconciler from 'react-reconciler';
+
 const rootHostContext = {};
 
 const hostConfig = {
