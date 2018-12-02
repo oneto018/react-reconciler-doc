@@ -1,7 +1,7 @@
 # react-reconciler-doc
 An Incomplete documentation of react-reconciler
 
-**⚠ this is for `react-reconciler` version:0.15.0  and `react` version:16.5.2**
+**⚠ this is for `react-reconciler` version:0.17.0  and `react` version:16.6.x**
 
 an example implementation and usage of this would be in the repo https://github.com/oneto018/file_renderer_experiment
 
